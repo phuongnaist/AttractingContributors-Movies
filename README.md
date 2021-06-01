@@ -24,3 +24,4 @@ Goal - I want contributors to help me list some favorite musician.
  2. Beethoven
  3. Cascade
  4. Fall Out Boy
+ 5. Kendrick Lamar
