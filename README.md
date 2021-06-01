@@ -31,3 +31,9 @@ Goal - I want contributors to help me list some favorite games.
 3. League of Legends
 4. Final Fantasy Series
 5. Dota2
+6. Ring Fit Adventure
+7. Monhan
+8. Metal Gear Solid Series
+9. Super Hexagon
+10. Grand Theft Auto
+
