@@ -30,7 +30,7 @@ Goal - I want contributors to help me list some favorite games.
 2. NieR:Automata
 3. League of Legends
 4. Final Fantasy Series
-5. Metal Gear Solid Series
-6. Super Hexagon
-7. Grand Theft Auto
-
+5. Monhan
+6. Metal Gear Solid Series
+7. Super Hexagon
+8. Grand Theft Auto
