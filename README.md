@@ -16,9 +16,9 @@ To complete the assignment, please do the following:
 4. Merge 10 Pull Requests into your forked Project.
 
 # My Project (Favorite band-collection)
-Goal - I want contributors to help me list some favorite music band.
+Goal - I want contributors to help me list some favorite musician.
 
-# List of Music(Favorite band).
+# List of Music(Favorite musician).
 1.
 2.
 3.
