@@ -19,13 +19,8 @@ To complete the assignment, please do the following:
 Goal - I want contributors to help me list some favorite musician.
 
 # List of Music(Favorite musician).
-1. Beethoven
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
+
+ 1. The piano guys 
+ 2. Beethoven
+ 3. 
+ 4.
