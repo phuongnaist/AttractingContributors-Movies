@@ -32,3 +32,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 9. 幕之内一歩
 10. Asuka Langley Soryu
 11. Mikey
+12. Negi Springfield
