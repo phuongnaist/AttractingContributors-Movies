@@ -27,3 +27,4 @@ Goal - I want contributors to help me list some favorite musician.
  5. Kendrick Lamar
  6. Mozart
  7. Tokyo Incidents
+ 8. PSYQUI
