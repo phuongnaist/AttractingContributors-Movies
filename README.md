@@ -33,3 +33,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 10. Asuka Langley Soryu
 11. Mikey
 12. Negi Springfield
+13. Conan
