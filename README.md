@@ -29,3 +29,4 @@ Goal - I want contributors to help me list some favorite musician.
  7. Tokyo Incidents
  8. PSYQUI
  9. suspended 4th
+10. Avici
