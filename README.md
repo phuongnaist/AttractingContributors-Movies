@@ -38,3 +38,4 @@ Goal - I want contributors to help me list some favorite sweets.
 11. galette des rois
 12. Mont Blanc
 13. Canele
+14. Sweet potato
